@@ -25,14 +25,9 @@ I've spent **6+ years** building for the web, first at small startups and now in
 
 Outside of code I edit video and design graphics: color grading, motion graphics and sound design.
 
-<table align="center">
-  <tr>
-    <td align="center"><h3>6+</h3><sub>years building for the web</sub></td>
-    <td align="center"><h3>60+</h3><sub>sites shipped</sub></td>
-    <td align="center"><h3>98</h3><sub>avg. Lighthouse score</sub></td>
-    <td align="center"><h3>30+</h3><sub>videos &amp; graphic designs</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./stats.svg" width="100%" alt="6+ years building for the web · 60+ sites shipped · 98 avg. Lighthouse score · 30+ videos &amp; graphic designs" />
+</p>
 
 <h2><img src="./headings/stack.svg" height="44" alt="Stack" /></h2>
 
