@@ -17,7 +17,7 @@
 
 ---
 
-## `// ABOUT`
+<h2><img src="./headings/about.svg" height="44" alt="About" /></h2>
 
 I'm **Levi Martinez**, a web designer, web developer, graphic designer and video editor based in the 🇵🇭 **Philippines**, available for **remote freelance work**.
 
@@ -34,7 +34,7 @@ Outside of code I edit video and design graphics: color grading, motion graphics
   </tr>
 </table>
 
-## `// STACK`
+<h2><img src="./headings/stack.svg" height="44" alt="Stack" /></h2>
 
 <p>
   <img src="https://img.shields.io/badge/React-111010?style=for-the-badge&logo=react&logoColor=DE1717" alt="React" />
@@ -55,7 +55,7 @@ Outside of code I edit video and design graphics: color grading, motion graphics
   <img src="https://img.shields.io/badge/Figma-111010?style=for-the-badge&logo=figma&logoColor=DE1717" alt="Figma" />
 </p>
 
-## `// SERVICES`
+<h2><img src="./headings/services.svg" height="44" alt="Services" /></h2>
 
 <p align="center">
   <img src="./services.svg" width="100%" alt="Services: Web design (Figma) · Frontend engineering (React, TypeScript, Tailwind) · Full website builds (Next.js, Shopify, Wix, Squarespace, WordPress) · Performance & SEO (audits, refactors, rebuilds) · Video editing (color grading, motion graphics, sound design)" />
@@ -63,13 +63,13 @@ Outside of code I edit video and design graphics: color grading, motion graphics
 
 <p align="right"><a href="https://lev-dev-portfolio.vercel.app/"><b>See my full portfolio →</b></a></p>
 
-## `// GITHUB`
+<h2><img src="./headings/github.svg" height="44" alt="GitHub" /></h2>
 
 <p align="center">
   <img style="width:100%;" src="https://streak-stats.demolab.com?user=Levi271997&background=111010&border=2E2525&stroke=2E2525&ring=DE1717&fire=F60D0D&currStreakNum=F6F1F1&sideNums=F6F1F1&currStreakLabel=DE1717&sideLabels=A89E9E&dates=A89E9E" alt="GitHub streak" />
 </p>
 
-## `// ELSEWHERE`
+<h2><img src="./headings/elsewhere.svg" height="44" alt="Elsewhere" /></h2>
 
 <p>
   <a href="https://www.frontendmentor.io/profile/Levi271997"><img src="https://img.shields.io/badge/Frontend%20Mentor-111010?style=for-the-badge&logo=frontendmentor&logoColor=DE1717" alt="Frontend Mentor" /></a>
