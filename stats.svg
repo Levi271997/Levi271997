@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-1 -1 882 222" width="882" height="222" role="img" aria-label="6+ years building for the web, 60+ sites shipped, 98 average Lighthouse score, 30+ videos and graphic designs">
+  <!-- 4 cards x 205, 20px gap. Arc-reactor rings rotate via SMIL. Palette from lev-dev-portfolio.vercel.app -->
+  <style>
+    .card { fill: #111010; stroke: #2E2525; stroke-width: 1; }
+    .slab { fill: #DE1717; }
+    .num { font: 800 30px "Archivo", "Arial Narrow", Arial, sans-serif; fill: #F6F1F1; }
+    .label { font: 500 11px "JetBrains Mono", Consolas, ui-monospace, monospace; letter-spacing: 0.1em; fill: #A89E9E; }
+  </style>
+  <defs>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#F60D0D" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#F60D0D" stop-opacity="0"/>
+    </radialGradient>
+    <g id="reactor">
+      <circle r="56" fill="url(#glow)"/>
+      <!-- outer segmented ring, slow clockwise -->
+      <circle r="64" fill="none" stroke="#DE1717" stroke-width="3" stroke-dasharray="34 10">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="14s" repeatCount="indefinite"/>
+      </circle>
+      <!-- tick ring, counter-clockwise -->
+      <circle r="55" fill="none" stroke="#5B5454" stroke-width="6" stroke-dasharray="2 6">
+        <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="20s" repeatCount="indefinite"/>
+      </circle>
+      <!-- bright partial arcs, fast clockwise -->
+      <circle r="46" fill="none" stroke="#F60D0D" stroke-width="4" stroke-linecap="round" stroke-dasharray="70 75">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4s" repeatCount="indefinite"/>
+      </circle>
+      <!-- inner thin ring -->
+      <circle r="38" fill="none" stroke="#2E2525" stroke-width="1.5"/>
+    </g>
+  </defs>
+
+  <g transform="translate(0 0)">
+    <path class="card" d="M0 0H205V202L187 220H0Z"/>
+    <rect class="slab" width="48" height="4"/>
+    <use xlink:href="#reactor" href="#reactor" x="102.5" y="94"/>
+    <text class="num" x="102.5" y="105" text-anchor="middle">6+</text>
+    <text class="label" x="102.5" y="190" text-anchor="middle">YEARS ON THE WEB</text>
+  </g>
+  <g transform="translate(225 0)">
+    <path class="card" d="M0 0H205V202L187 220H0Z"/>
+    <rect class="slab" width="48" height="4"/>
+    <use xlink:href="#reactor" href="#reactor" x="102.5" y="94"/>
+    <text class="num" x="102.5" y="105" text-anchor="middle">60+</text>
+    <text class="label" x="102.5" y="190" text-anchor="middle">SITES SHIPPED</text>
+  </g>
+  <g transform="translate(450 0)">
+    <path class="card" d="M0 0H205V202L187 220H0Z"/>
+    <rect class="slab" width="48" height="4"/>
+    <use xlink:href="#reactor" href="#reactor" x="102.5" y="94"/>
+    <text class="num" x="102.5" y="105" text-anchor="middle">98</text>
+    <text class="label" x="102.5" y="190" text-anchor="middle">AVG. LIGHTHOUSE</text>
+  </g>
+  <g transform="translate(675 0)">
+    <path class="card" d="M0 0H205V202L187 220H0Z"/>
+    <rect class="slab" width="48" height="4"/>
+    <use xlink:href="#reactor" href="#reactor" x="102.5" y="94"/>
+    <text class="num" x="102.5" y="105" text-anchor="middle">30+</text>
+    <text class="label" x="102.5" y="190" text-anchor="middle">VIDEOS &amp; DESIGNS</text>
+  </g>
+</svg>
