@@ -1,7 +1,7 @@
 <!-- Palette from lev-dev-portfolio.vercel.app: ink #111010 · red #DE1717 · red-hot #F60D0D · paper #F6F1F1 · soft #A89E9E · line #2E2525 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:111010,60:DE1717,100:F60D0D&text=Lev.Dev&fontColor=FFFFFF&fontSize=72&fontAlignY=38&desc=Levi%20Martinez%20%C2%B7%20Web%20Designer%20%26%20Developer&descAlignY=60&descSize=18&animation=fadeIn" alt="Lev.Dev header" />
+<svg viewBox="0 0 1811 1635" role="img" aria-label="Levi Martinez logo"><use href="#logo"></use></svg> 
 </p>
 
 <p align="center">
