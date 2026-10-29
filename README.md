@@ -56,7 +56,7 @@ Outside of code I edit video and design graphics: color grading, motion graphics
   <img src="./services.svg" width="100%" alt="Services: Web design (Figma) · Frontend engineering (React, TypeScript, Tailwind) · Full website builds (Next.js, Shopify, Wix, Squarespace, WordPress) · Performance & SEO (audits, refactors, rebuilds) · Video editing (color grading, motion graphics, sound design)" />
 </p>
 
-<p align="right"><a href="https://lev-dev-portfolio.vercel.app/" style="color:#de1717;"><b>See my full portfolio →</b></a></p>
+<p align="right"><a href="https://lev-dev-portfolio.vercel.app/" style="color:red"><b>See my full portfolio →</b></a></p>
 
 <h2><img src="./headings/github.svg" height="44" alt="GitHub" /></h2>
 
@@ -64,15 +64,15 @@ Outside of code I edit video and design graphics: color grading, motion graphics
   <img style="width:100%;" src="https://streak-stats.demolab.com?user=Levi271997&background=111010&border=2E2525&stroke=2E2525&ring=DE1717&fire=F60D0D&currStreakNum=F6F1F1&sideNums=F6F1F1&currStreakLabel=DE1717&sideLabels=A89E9E&dates=A89E9E" alt="GitHub streak" />
 </p>
 
-<h2><img src="./headings/elsewhere.svg" height="44" alt="Elsewhere" /></h2>
+<!-- <h2><img src="./headings/elsewhere.svg" height="44" alt="Elsewhere" /></h2>
 
 <p>
   <a href="https://www.frontendmentor.io/profile/Levi271997"><img src="https://img.shields.io/badge/Frontend%20Mentor-111010?style=for-the-badge&logo=frontendmentor&logoColor=DE1717" alt="Frontend Mentor" /></a>
   <a href="https://codepen.io/jannex27"><img src="https://img.shields.io/badge/CodePen-111010?style=for-the-badge&logo=codepen&logoColor=DE1717" alt="CodePen" /></a>
   <a href="https://www.freecodecamp.org/fcce3131031-2fd0-4c08-92cb-429754d5d596"><img src="https://img.shields.io/badge/freeCodeCamp-111010?style=for-the-badge&logo=freecodecamp&logoColor=DE1717" alt="freeCodeCamp" /></a>
-</p>
+</p> -->
 
-<p align="center"><sub>Got a project? I usually reply within 24 hours. <a href="mailto:levijanmartz27@gmail.com"><b>Let's talk.</b></a></sub></p>
+<p align="center"><sub>Got a project? I usually reply within 24 hours. <a href="mailto:levijanmartz27@gmail.com" style="color:red"><b>Let's talk.</b></a></sub></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:F60D0D,40:DE1717,100:111010" alt="footer" style="width:100%;" />
