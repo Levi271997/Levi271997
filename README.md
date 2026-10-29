@@ -66,11 +66,6 @@ Outside of code I edit video and design graphics: color grading, motion graphics
 ## `// GITHUB`
 
 <p align="center">
-  <img style="width:100%;" height="170" src="https://github-readme-stats.vercel.app/api?username=Levi271997&show_icons=true&hide_border=false&bg_color=111010&title_color=DE1717&text_color=F6F1F1&icon_color=F60D0D&border_color=2E2525&border_radius=0" alt="GitHub stats" />
-  <img style="width:100%;" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levi271997&layout=compact&bg_color=111010&title_color=DE1717&text_color=F6F1F1&border_color=2E2525&border_radius=0" alt="Top languages" />
-</p>
-
-<p align="center">
   <img style="width:100%;" src="https://streak-stats.demolab.com?user=Levi271997&background=111010&border=2E2525&stroke=2E2525&ring=DE1717&fire=F60D0D&currStreakNum=F6F1F1&sideNums=F6F1F1&currStreakLabel=DE1717&sideLabels=A89E9E&dates=A89E9E" alt="GitHub streak" />
 </p>
 
