@@ -19,7 +19,7 @@
 
 <h2><img src="./headings/about.svg" height="44" alt="About" /></h2>
 
-I'm **Levi Martinez**, a web designer, web developer, graphic designer and video editor based in the 🇵🇭 **Philippines**, available for **remote freelance work**.
+I'm **Levi**, a web designer, web developer, graphic designer and video editor based in the 🇵🇭 **Philippines**, available for **remote freelance work**.
 
 I've spent **6+ years** building for the web, first at small startups and now independently with clients worldwide. I work between design and engineering, taking Figma layouts to production on **WordPress, Shopify, Webflow or custom React**. My focus is fast, accessible sites tuned for Core Web Vitals.
 
