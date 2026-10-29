@@ -65,35 +65,17 @@ Outside of code I edit video and design graphics: color grading, motion graphics
 | ⚡ **Performance & SEO** | Audits, refactors and rebuilds |
 | 🎬 **Video editing** | Color grading, motion graphics, sound design |
 
-## `// SELECTED WORK`
-
-| Project | What it is | Built with |
-|---|---|---|
-| [**Aemorph**](https://aemorph.com) | SEO agency site | WordPress · Elementor · ACF · SASS |
-| [**Trill Electric**](https://trillgroup.com.au) | Information site | WordPress · Elementor · ACF · SASS |
-| [**SME Centre**](https://smecentre-sicci.sg) | Appointment & ticketing system | WordPress · Elementor · ACF · SASS |
-| [**Rejuve Cosmetix**](https://rejuvecosmetix.com.au) | Cosmetic clinic info & booking | WordPress · ACF · SASS |
-| [**Property Pursuit**](https://sg.propertypursuit.co) | Singapore property listings | WordPress · ACF · SASS |
-| [**PatientGrowth**](https://patientgrowth.co) | Clinic website | WordPress · Elementor · ACF · SASS |
-| [**Jones Dental**](https://jonesdental.com.au) | Clinic website | WordPress · Elementor · ACF · SASS |
-| [**Epic Visibility**](https://epicvisibility.com) | Digital marketing agency site | WordPress · Oxygen · ACF · SASS |
-
-<p align="right"><a href="https://lev-dev-portfolio.vercel.app/"><b>See the full portfolio →</b></a></p>
-
-## `// CERTIFICATIONS`
-
-- 🏅 **Front-End Developer Professional Certificate** · Meta (Coursera)
-- 🏅 [**Front-End Development Libraries (V8)**](https://www.freecodecamp.org/fcce3131031-2fd0-4c08-92cb-429754d5d596) · freeCodeCamp
+<p align="right"><a href="https://lev-dev-portfolio.vercel.app/"><b>See my full portfolio →</b></a></p>
 
 ## `// GITHUB`
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Levi271997&show_icons=true&hide_border=false&bg_color=111010&title_color=DE1717&text_color=F6F1F1&icon_color=F60D0D&border_color=2E2525&border_radius=0" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levi271997&layout=compact&bg_color=111010&title_color=DE1717&text_color=F6F1F1&border_color=2E2525&border_radius=0" alt="Top languages" />
+  <img style="width:100%;" height="170" src="https://github-readme-stats.vercel.app/api?username=Levi271997&show_icons=true&hide_border=false&bg_color=111010&title_color=DE1717&text_color=F6F1F1&icon_color=F60D0D&border_color=2E2525&border_radius=0" alt="GitHub stats" />
+  <img style="width:100%;" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levi271997&layout=compact&bg_color=111010&title_color=DE1717&text_color=F6F1F1&border_color=2E2525&border_radius=0" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Levi271997&background=111010&border=2E2525&stroke=2E2525&ring=DE1717&fire=F60D0D&currStreakNum=F6F1F1&sideNums=F6F1F1&currStreakLabel=DE1717&sideLabels=A89E9E&dates=A89E9E" alt="GitHub streak" />
+  <img style="width:100%;" src="https://streak-stats.demolab.com?user=Levi271997&background=111010&border=2E2525&stroke=2E2525&ring=DE1717&fire=F60D0D&currStreakNum=F6F1F1&sideNums=F6F1F1&currStreakLabel=DE1717&sideLabels=A89E9E&dates=A89E9E" alt="GitHub streak" />
 </p>
 
 ## `// ELSEWHERE`
@@ -107,5 +89,5 @@ Outside of code I edit video and design graphics: color grading, motion graphics
 <p align="center"><sub>Got a project? I usually reply within 24 hours. <a href="mailto:levijanmartz27@gmail.com"><b>Let's talk.</b></a></sub></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:F60D0D,40:DE1717,100:111010" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:F60D0D,40:DE1717,100:111010" alt="footer" style="width:100%;" />
 </p>
