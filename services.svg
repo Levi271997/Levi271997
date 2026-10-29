@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-1 -1 882 322" width="882" height="322" role="img" aria-label="Services: Web design, Frontend engineering, Full website builds, Performance and SEO, Video editing">
+  <!-- Grid: 3 cols x 280 / 2 cols x 430, 20px gap. Palette from lev-dev-portfolio.vercel.app -->
+  <style>
+    .card { fill: #111010; stroke: #2E2525; stroke-width: 1; }
+    .slab { fill: #DE1717; }
+    .num { font: 500 12px "JetBrains Mono", Consolas, ui-monospace, monospace; letter-spacing: 0.12em; fill: #DE1717; }
+    .title { font: 800 20px "Archivo", "Arial Narrow", Arial, sans-serif; fill: #F6F1F1; }
+    .desc { font: 400 15px "Instrument Sans", "Segoe UI", system-ui, sans-serif; fill: #A89E9E; }
+  </style>
+
+  <!-- Row 1 -->
+  <g transform="translate(0 0)">
+    <path class="card" d="M0 0H280V132L262 150H0Z"/>
+    <rect class="slab" width="48" height="4"/>
+    <text class="num" x="24" y="40">01 / DESIGN</text>
+    <text class="title" x="24" y="80">Web design</text>
+    <text class="desc" x="24" y="112">Interfaces designed in Figma</text>
+  </g>
+  <g transform="translate(300 0)">
+    <path class="card" d="M0 0H280V132L262 150H0Z"/>
+    <rect class="slab" width="48" height="4"/>
+    <text class="num" x="24" y="40">02 / FRONTEND</text>
+    <text class="title" x="24" y="80">Frontend engineering</text>
+    <text class="desc" x="24" y="112">React, TypeScript, Tailwind</text>
+  </g>
+  <g transform="translate(600 0)">
+    <path class="card" d="M0 0H280V132L262 150H0Z"/>
+    <rect class="slab" width="48" height="4"/>
+    <text class="num" x="24" y="40">03 / BUILDS</text>
+    <text class="title" x="24" y="80">Full website builds</text>
+    <text class="desc" x="24" y="112">Next.js, Shopify, Wix,</text>
+    <text class="desc" x="24" y="132">Squarespace, WordPress</text>
+  </g>
+
+  <!-- Row 2 -->
+  <g transform="translate(0 170)">
+    <path class="card" d="M0 0H430V132L412 150H0Z"/>
+    <rect class="slab" width="48" height="4"/>
+    <text class="num" x="24" y="40">04 / SPEED</text>
+    <text class="title" x="24" y="80">Performance &amp; SEO</text>
+    <text class="desc" x="24" y="112">Audits, refactors and rebuilds</text>
+  </g>
+  <g transform="translate(450 170)">
+    <path class="card" d="M0 0H430V132L412 150H0Z"/>
+    <rect class="slab" width="48" height="4"/>
+    <text class="num" x="24" y="40">05 / VIDEO</text>
+    <text class="title" x="24" y="80">Video editing</text>
+    <text class="desc" x="24" y="112">Color grading, motion graphics, sound design</text>
+  </g>
+</svg>
