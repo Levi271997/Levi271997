@@ -56,7 +56,7 @@ Outside of code I edit video and design graphics: color grading, motion graphics
   <img src="./services.svg" width="100%" alt="Services: Web design (Figma) · Frontend engineering (React, TypeScript, Tailwind) · Full website builds (Next.js, Shopify, Wix, Squarespace, WordPress) · Performance & SEO (audits, refactors, rebuilds) · Video editing (color grading, motion graphics, sound design)" />
 </p>
 
-<p align="right"><a href="https://lev-dev-portfolio.vercel.app/"><b>See my full portfolio →</b></a></p>
+<p align="right"><a href="https://lev-dev-portfolio.vercel.app/" style="color:#de1717;"><b>See my full portfolio →</b></a></p>
 
 <h2><img src="./headings/github.svg" height="44" alt="GitHub" /></h2>
 
