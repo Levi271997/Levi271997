@@ -57,13 +57,9 @@ Outside of code I edit video and design graphics: color grading, motion graphics
 
 ## `// SERVICES`
 
-| | |
-|---|---|
-| 🎨 **Web design** | Interfaces designed in Figma |
-| ⚛️ **Frontend engineering** | React, TypeScript, Tailwind |
-| 🛠️ **Full website builds** | Next.js, Shopify, Wix, Squarespace, WordPress |
-| ⚡ **Performance & SEO** | Audits, refactors and rebuilds |
-| 🎬 **Video editing** | Color grading, motion graphics, sound design |
+<p align="center">
+  <img src="./services.svg" width="100%" alt="Services: Web design (Figma) · Frontend engineering (React, TypeScript, Tailwind) · Full website builds (Next.js, Shopify, Wix, Squarespace, WordPress) · Performance & SEO (audits, refactors, rebuilds) · Video editing (color grading, motion graphics, sound design)" />
+</p>
 
 <p align="right"><a href="https://lev-dev-portfolio.vercel.app/"><b>See my full portfolio →</b></a></p>
 
