@@ -64,7 +64,7 @@ Outside of code I edit video and design graphics: color grading, motion graphics
   <img style="width:100%;" src="https://streak-stats.demolab.com?user=Levi271997&background=111010&border=2E2525&stroke=2E2525&ring=DE1717&fire=F60D0D&currStreakNum=F6F1F1&sideNums=F6F1F1&currStreakLabel=DE1717&sideLabels=A89E9E&dates=A89E9E" alt="GitHub streak" />
 </p>
 
-<h2><img src="./headings/elsewhere.svg" height="44" alt="Elsewhere" /></h2>
+<!-- <h2><img src="./headings/elsewhere.svg" height="44" alt="Elsewhere" /></h2> -->
 
 <p>
   <a href="https://www.frontendmentor.io/profile/Levi271997"><img src="https://img.shields.io/badge/Frontend%20Mentor-111010?style=for-the-badge&logo=frontendmentor&logoColor=DE1717" alt="Frontend Mentor" /></a>
