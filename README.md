@@ -19,7 +19,7 @@
 
 <h2><img src="./headings/about.svg" height="44" alt="About" /></h2>
 
-I'm **Levi**, a web designer, web developer, graphic designer and video editor based in the 🇵🇭 **Philippines**, available for **remote freelance work**.
+I'm **Levi Martinez**, a web designer, web developer, graphic designer and video editor based in the 🇵🇭 **Philippines**, available for **remote freelance work**.
 
 I've spent **6+ years** building for the web, first at small startups and now independently with clients worldwide. I work between design and engineering, taking Figma layouts to production on **WordPress, Shopify, Webflow or custom React**. My focus is fast, accessible sites tuned for Core Web Vitals.
 
@@ -56,7 +56,7 @@ Outside of code I edit video and design graphics: color grading, motion graphics
   <img src="./services.svg" width="100%" alt="Services: Web design (Figma) · Frontend engineering (React, TypeScript, Tailwind) · Full website builds (Next.js, Shopify, Wix, Squarespace, WordPress) · Performance & SEO (audits, refactors, rebuilds) · Video editing (color grading, motion graphics, sound design)" />
 </p>
 
-<p align="right"><a href="https://lev-dev-portfolio.vercel.app/" style="color:red"><b>See my full portfolio →</b></a></p>
+<p align="right"><a href="https://lev-dev-portfolio.vercel.app/"><img src="https://img.shields.io/badge/See%20my%20full%20portfolio%20%E2%86%92-DE1717?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="See my full portfolio →" /></a></p>
 
 <h2><img src="./headings/github.svg" height="44" alt="GitHub" /></h2>
 
@@ -64,15 +64,19 @@ Outside of code I edit video and design graphics: color grading, motion graphics
   <img style="width:100%;" src="https://streak-stats.demolab.com?user=Levi271997&background=111010&border=2E2525&stroke=2E2525&ring=DE1717&fire=F60D0D&currStreakNum=F6F1F1&sideNums=F6F1F1&currStreakLabel=DE1717&sideLabels=A89E9E&dates=A89E9E" alt="GitHub streak" />
 </p>
 
-<!-- <h2><img src="./headings/elsewhere.svg" height="44" alt="Elsewhere" /></h2>
+<h2><img src="./headings/elsewhere.svg" height="44" alt="Elsewhere" /></h2>
 
 <p>
   <a href="https://www.frontendmentor.io/profile/Levi271997"><img src="https://img.shields.io/badge/Frontend%20Mentor-111010?style=for-the-badge&logo=frontendmentor&logoColor=DE1717" alt="Frontend Mentor" /></a>
   <a href="https://codepen.io/jannex27"><img src="https://img.shields.io/badge/CodePen-111010?style=for-the-badge&logo=codepen&logoColor=DE1717" alt="CodePen" /></a>
   <a href="https://www.freecodecamp.org/fcce3131031-2fd0-4c08-92cb-429754d5d596"><img src="https://img.shields.io/badge/freeCodeCamp-111010?style=for-the-badge&logo=freecodecamp&logoColor=DE1717" alt="freeCodeCamp" /></a>
-</p> -->
+</p>
 
-<p align="center"><sub>Got a project? I usually reply within 24 hours. <a href="mailto:levijanmartz27@gmail.com" style="color:red"><b>Let's talk.</b></a></sub></p>
+<p align="center"><sub>Got a project? I usually reply within 24 hours.</sub></p>
+
+<p align="center">
+  <a href="mailto:levijanmartz27@gmail.com"><img src="https://img.shields.io/badge/Let%27s%20talk-DE1717?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Let's talk" /></a>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:F60D0D,40:DE1717,100:111010" alt="footer" style="width:100%;" />
